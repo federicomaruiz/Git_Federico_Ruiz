@@ -13,5 +13,6 @@ public class FR {
 		System.out.println("Alumno: Federico_Ruiz");
 		System.out.println("Modificación desde Master-Cambiado");
 		System.out.println("Modificación desde Develop"); 
+		System.out.println("Modificación desde GitHub"); 
 	}
 }
