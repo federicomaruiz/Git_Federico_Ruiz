@@ -14,5 +14,6 @@ public class FR {
 		System.out.println("Modificación desde Master-Cambiado");
 		System.out.println("Modificación desde Develop"); 
 		System.out.println("Modificación desde GitHub"); 
+		System.out.println("probando comando git commit -a -m");
 	}
 }
