@@ -10,8 +10,8 @@ public class DebateU3 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Alumno: Federico_Ruiz");
-		System.out.println("Desde la rama develop");
+		System.out.println("Alumno: Federico_Ruiz.");
+		
 		
 	}
 
